@@ -34,12 +34,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/@sree-latha-kase" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@sree-latha-kase" height="30" width="40" /></a>
+<a href="https://codepen.io/sree-latha-kase" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@sree-latha-kase" height="30" width="40" /></a>
 <a href="https://twitter.com/sreegorgeous" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sreegorgeous" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sree latha kase" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sree latha kase" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sree-latha-kase-560018229/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sree latha kase" height="30" width="40" /></a>
 <a href="https://instagram.com/honeieee_queen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="honeieee_queen" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@kasesreelatha002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@kasesreelatha002" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sree9014" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sree9014" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/kasesreelatha002?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@kasesreelatha002" height="30" width="40" /></a>
+<a href="https://leetcode.com/sree9014/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sree9014" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@kasesreelatha002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@kasesreelatha002" height="30" width="40" /></a>
 </p>
 
