@@ -1,7 +1,6 @@
 ![logo](https://github.com/KaseSreeLatha/KaseSreeLatha/blob/main/Blue%20Yellow%20Futuristic%20Virtual%20Technology%20Blog%20Banner.png)
 <h1 align="center">Hello 👋, I'm Kase Sree Latha- Code Developer</h1>
 <h3 align="center">A passionate Java Full Stack developer from India</h3>
-
 <img align="right" alt="Coding" width="400" src="https://github.com/KaseSreeLatha/KaseSreeLatha/blob/main/output-onlinegiftools.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kasesreelatha&label=Profile%20views&color=0e75b6&style=flat" alt="kasesreelatha" /> </p>
 
